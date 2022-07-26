@@ -1,0 +1,47 @@
+{
+	"id": "C27BCE37-BB0C-ED11-B47A-000D3AB2359F",
+	"createdAt": "2022-07-26T08:16:16.380Z",
+	"createdBy": "kristin.eliassen@neptune-software.com",
+	"git": {
+		"targetServers": [],
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-chatbotbutton",
+		"testServers": []
+	},
+	"name": "neptunesoftware-dxp-abb-chatbotbutton",
+	"description": null,
+	"ver": "22.7.26.817",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "C9C6FC7F-8470-45CF-BBFA-9C59D2270C6D",
+			"ver": "22.7.26.1016",
+			"application": "neptbb_floatingbutton",
+			"title": "CHATBOT",
+			"description": "Floating Button"
+		}
+	],
+	"api": [],
+	"odataMock": [],
+	"odataSource": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"wf_definition": [],
+	"department": [],
+	"script_scheduler": [],
+	"connector": []
+}
